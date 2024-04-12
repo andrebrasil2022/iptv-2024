@@ -53,6 +53,8 @@ https://0058-jbc.dtvott.com/dash_live_0127/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/435px-Logotipo_da_GloboNews.png" group-title="Notícias | Brasil",Globo News
 https://0059-vos.dtvott.com/DASH/manifest.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Record_News_logo_2023.svg/375px-Record_News_logo_2023.svg.png" group-title="Notícias | Brasil",Record News
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd1af42db82f5a17a0d75246f25f5201:a9edd4e2c410923e9cbcb261102e5008
@@ -273,3 +275,39 @@ https://0058-jbc.dtvott.com/dash_live_0022/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/375px-2015_Discovery_theater_HD_logo.svg.png" group-title="Séries | Brasil",Discovery Theater
 https://0002-jbc-da-mt.dtvott.com/dash_live_0074/manifest.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b9fc39df1bd5696a1c6c46cae883567:e55a026ce7ee53babc0646c68bbafd77
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/375px-TLC_Logo.svg.png" group-title="Documentários | Brasil",TLC
+https://0037-jbc-da-bpk.dtvott.com/dash_live_0025/manifest.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4de4f830d10e5688837d4ce27787539f:4502f8f9bf5172323d5b170303e1f63b
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/360px-Natgeologo.svg.png" group-title="Documentários | Brasil",National Geographic
+https://0037-jbc-da-bpk.dtvott.com/dash_live_0021/manifest.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c968e196dc203666b093aefe20320bee:dc24e3ea117deb906358bd427aef3a8c
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/375px-2019_Discovery_logo.svg.png" group-title="Documentários | Brasil",Discovery Channel
+https://0015-vos.dtvott.com/DASH/manifest.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df01104845985b04b0d140b9efa58dcc:cc26cdbfb041f5532cf69fa4fb876115
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/375px-Science_Channel_logo.svg.png" group-title="Documentários | Brasil",Discovery Science
+https://0029-jbc-da-mt.dtvott.com/dash_live_0058/manifest.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=87e6f27bf5045e29981293c817dd96f4:9ccbe00ed8818ce9cd3f5efb6d5cf2c0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/300px-Discovery_Turbo_logo.svg.png" group-title="Documentários | Brasil",Discovery Turbo
+https://0037-jbc-da-bpk.dtvott.com/dash_live_0030/manifest.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5565fe9480845c5f865dfaca3ebbb220:93e85417a3629bbfb88bbe0b109b2c41
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/375px-World_Discovery_HD_logo.svg.png" group-title="Documentários | Brasil",Discovery World
+https://0029-jbc-da-mt.dtvott.com/dash_live_0102/manifest.mpd
