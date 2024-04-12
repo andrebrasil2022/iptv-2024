@@ -311,3 +311,51 @@ https://0037-jbc-da-bpk.dtvott.com/dash_live_0030/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/375px-World_Discovery_HD_logo.svg.png" group-title="Documentários | Brasil",Discovery World
 https://0029-jbc-da-mt.dtvott.com/dash_live_0102/manifest.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=884c84a3ef8d5921a294df585cb7102e:cb846d65ce9907c2e6952b90229073ed
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/300px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil | Brasil",Cartoon Network
+https://0006-bbc.dtvott.com/dash_live_0013/manifest.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a34d85a7cc2457e8a5746d57a6a5ffd4:142b59ad73cd42a2f236e9a7ee5c398a
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/300px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="Infantil | Brasil",Nickelodeon
+https://0055-jbc.dtvott.com/dash_live_0002/manifest.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=843e14c610605ca285b0f1a90b36a5e6:ee36acf3f0a019a916406082fc4216d8
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/375px-2019_Disney_Channel_logo.svg.png" group-title="Infantil | Brasil",Disney Channel
+https://0037-jbc-da-bpk.dtvott.com/dash_live_0018/manifest.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e4d1348f35d5605bcd11cb9db919e9d:2ad9e062e4ec97dd996a32df285efe62
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Gloob_2022.svg/345px-Gloob_2022.svg.png" group-title="Infantil | Brasil",Gloob
+https://0060-jbc.dtvott.com/dash_live_0060/manifest.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff0bdee8457e5fdd9cbe92f06ea21f3c:dad1b98bf1dd14147cfdc885e8886314
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gloobinho_logo.svg/285px-Gloobinho_logo.svg.png" group-title="Infantil | Brasil",Gloobinho
+https://0061-jbc.dtvott.com/dash_live_0061/manifest.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6672e54d0e90531883da131929ea47ad:dc2596a9fcb172448bf884692450c831
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/150px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="Infantil | Brasil",Discovery Kids
+https://0055-jbc.dtvott.com/dash_live_0004/manifest.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=37ce3470f18d41f9955584d73926f972:e15411e50964be6f36cf27defcc6ac9e
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/300px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title="Infantil | Brasil",Nick Jr.
+https://d1wwtskvr1r98k.cloudfront.net/out/v1/d0982434e4c94f3a9bbbd0204d046b8c/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a143b53e92905cb98a50816b9592cff3:751ba83b426160ae569d3c27a962b57c
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/270px-Cartoonito_-_Logo_2021.svg.png" group-title="Infantil | Brasil",Cartoonito
+https://1010-abc.dtvott.com/dash_live_0039/manifest.mpd
