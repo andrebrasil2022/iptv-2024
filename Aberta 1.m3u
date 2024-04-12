@@ -201,6 +201,14 @@ https://0062-jbc.dtvott.com/dash_live_0062/manifest.mpd
 https://0033-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cd28d768659c5d8092d8b8260c45cf07:98f67df4d550de6958c6f857015c1000
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/300px-Discovery_H%26H_Logo_2022.webp.png" group-title="Variedades | Brasil",Discovery Home & Health
+https://0058-jbc.dtvott.com/dash_live_0005/manifest.mpd
+#EXTINF:-1 tvg-logo="https://redemaisfamilia.com.br/wp-content/uploads/2022/08/Logo-rede-mais-familia.png" group-title="Variedades | Brasil",Rede Mais Família
+https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/playlist.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ddd856a2d08c5202afbc09c7c9c01db6:628385a202723f77dd157f96bd6a270f
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/375px-HGTV_US_Logo_2015.svg.png" group-title="Variedades | Brasil",HGTV
