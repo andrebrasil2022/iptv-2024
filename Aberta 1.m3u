@@ -3,105 +3,206 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ad3dca103185934acff7a0e9000c112:3f396659d841a55cd1381e6735ecfa1d
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/300px-Logotipo_do_SBT.svg.png" group-title="Aberta",SBT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/300px-Logotipo_do_SBT.svg.png" group-title="Aberta | Brasil",SBT
 https://0006-bbc.dtvott.com/dash_live_0035/manifest.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3823e5215eb65536b28738cb01288434:6f3d0663a95d1ec1beff9a5120cff601
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png/270px-Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png" group-title="Aberta",Record
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png/270px-Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png" group-title="Aberta | Brasil",Record
 https://poc-sky0051.glbcdn.net/dtv-tv/dash_live_0051/manifest.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TV_Brasil_logo_2023.svg/300px-TV_Brasil_logo_2023.svg.png" group-title="Aberta",TV Brasil
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TV_Brasil_logo_2023.svg/300px-TV_Brasil_logo_2023.svg.png" group-title="Aberta | Brasil",TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=99bffe94c79343208f617e8186946a1a:9d8ec765f77420330dcd0a9c6f4673fa
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/89/Logotipo_da_RedeTV%21.png/300px-Logotipo_da_RedeTV%21.png" group-title="Aberta",Rede TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/89/Logotipo_da_RedeTV%21.png/300px-Logotipo_da_RedeTV%21.png" group-title="Aberta | Brasil",Rede TV
 https://cdn-brisanet.cportal.com.br/REDE_TV/DASH/stream.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe1d448746445b0dad008ffc96659be1:2ea732e3e3c1e4c944973ce9ea924292
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/300px-Logotipo_da_TV_Globo.png" group-title="Aberta",TV Globo
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/300px-Logotipo_da_TV_Globo.png" group-title="Aberta | Brasil",TV Globo
 https://0006-bbc.dtvott.com/dash_live_0094/manifest.mpd
-#EXTINF:-1 tvg-id="TVNovaNordeste.br" tvg-name="TV Nova Nordeste" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/LOGO_NOVA_PNG.png/300px-LOGO_NOVA_PNG.png" group-title="Aberta",TV Nova Nordeste
+#EXTINF:-1 tvg-id="TVNovaNordeste.br" tvg-name="TV Nova Nordeste" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/LOGO_NOVA_PNG.png/300px-LOGO_NOVA_PNG.png" group-title="Aberta | Brasil",TV Nova Nordeste
 https://live.comets.com.br/tvnovanordeste_222/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/24/Amazon_sat_logo_2022.svg/300px-Amazon_sat_logo_2022.svg.png" group-title="Aberta | Brasil",Amazon Sat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_da_Rede_Minas.svg/360px-Logo_da_Rede_Minas.svg.png" group-title="Aberta | Brasil",Rede Minas
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/300px-Cultura_logo_2013.svg.png" group-title="Aberta | Brasil",TV Cultura
+https://evpp.mm.uol.com.br/cultura3/cultura3.sdp/playlist.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1423e7eb3a35baf9c02d96fc02572fc:b090accb06bde78219e9e16b304b9271
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d9/Logo-futura-horizontal.png" group-title="Aberta | Brasil",Futura
+https://0006-bbc.dtvott.com/dash_live_0092/manifest.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Canal_Gov_Logo.png/300px-Canal_Gov_Logo.png" group-title="Aberta | Brasil",Canal Gov
+https://canalgov-stream.ebc.com.br/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90184f5ff1b95e97896094c083717d56:40934400b8cc1850d630a2cea6470820
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Jovem_Pan_News.png/300px-Jovem_Pan_News.png" group-title="Notícias",Jovem Pan News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Jovem_Pan_News.png/300px-Jovem_Pan_News.png" group-title="Notícias | Brasil",Jovem Pan News
 https://0058-jbc.dtvott.com/dash_live_0127/manifest.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0206b0b260e339b28a23162666d9b920:643ccba9971f746402300463786137d0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/435px-Logotipo_da_GloboNews.png" group-title="Notícias",Globo News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/435px-Logotipo_da_GloboNews.png" group-title="Notícias | Brasil",Globo News
 https://0059-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd1af42db82f5a17a0d75246f25f5201:a9edd4e2c410923e9cbcb261102e5008
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BandSports2024.png/375px-BandSports2024.png" group-title="Esportes",Band Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BandSports2024.png/375px-BandSports2024.png" group-title="Esportes | Brasil",Band Sports
 https://0064-jbc.dtvott.com/dash_live_0054/manifest.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a85824c8493b52eba3e45cb2ca9ccef8:e4f38757ced0cdd7537d9bfb91d0061e
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/eb/Logotipo_nosso_futebol.png" group-title="Esportes",Nosso Futebol
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/eb/Logotipo_nosso_futebol.png" group-title="Esportes | Brasil",Nosso Futebol
 https://0006-bbc.dtvott.com/dash_live_0133/manifest.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b3f1c9271d9d51999a401da6ded4d376:9ebd349045e5c8435e2cc50eeaf7d227
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Combate_logo.svg/330px-Combate_logo.svg.png" group-title="Esportes",Combate
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Combate_logo.svg/330px-Combate_logo.svg.png" group-title="Esportes | Brasil",Combate
 https://0064-jbc.dtvott.com/dash_live_0057/manifest.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ccb2a4348ba157b0a2b4d1b615edec0c:16ea8ff64c2f00c26c4d83c87a2ae250
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/CanalBrasil_logos_700px_0-03.png/300px-CanalBrasil_logos_700px_0-03.png" group-title="Filmes",Canal Brasil
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/CanalBrasil_logos_700px_0-03.png/300px-CanalBrasil_logos_700px_0-03.png" group-title="Filmes | Brasil",Canal Brasil
 https://0064-jbc.dtvott.com/dash_live_0056/manifest.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f5f1e9c443ab568980dd16b246a81764:f13e6fefe6ca2b9ae8597ffd7e62eb90
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/300px-HBO_logo.svg.png" group-title="Filmes",HBO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/300px-HBO_logo.svg.png" group-title="Filmes | Brasil",HBO
 https://0064-jbc.dtvott.com/dash_live_0009/manifest.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3da760ccf503f6b92a2cae91b324c0f:8cc9d040457f46feb8426f4a34462ef7
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/234px-HBO2_logo.svg.png" group-title="Filmes",HBO2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/234px-HBO2_logo.svg.png" group-title="Filmes | Brasil",HBO2
 https://0063-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91d7d9099b1b5a959d3e0b86defc1645:f64a24b9f6b4e0d7870daaaa7c897e47
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/234px-Logohboplus2019.svg.png" group-title="Filmes",HBO Plus
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/234px-Logohboplus2019.svg.png" group-title="Filmes | Brasil",HBO Plus
 https://0002-jbc-da-mt.dtvott.com/dash_live_0077/manifest.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=20054c12719b569ca749d59e2f477254:eb2f4d43e582be8e047127ae38eca6b4
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/234px-HBO_Family.svg.png" group-title="Filmes",HBO Family
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/234px-HBO_Family.svg.png" group-title="Filmes | Brasil",HBO Family
 https://0058-jbc.dtvott.com/dash_live_0042/manifest.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e3cbe37d8b2a5f30bcfc6f883982338f:72cff4bc214b94b88c139977fb4fbf4f
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/234px-HBO_Signature.svg.png" group-title="Filmes",HBO Signature
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/234px-HBO_Signature.svg.png" group-title="Filmes | Brasil",HBO Signature
 https://0002-jbc-da-mt.dtvott.com/dash_live_0078/manifest.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c83585e34ba952de968732bb873bd6e8:ee105303a7d7d2baec82b3605a700b45
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/375px-Cinemax_LA.png" group-title="Filmes",Cinemax
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/375px-Cinemax_LA.png" group-title="Filmes | Brasil",Cinemax
 https://0037-jbc-da-bpk.dtvott.com/dash_live_0026/manifest.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=99a1f64f3c6e5176bd18538594355c2f:3b4100ebbae080f2e3a638452b8a3d24
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/300px-CinecanalLA.png" group-title="Filmes",Cinecanal
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/300px-CinecanalLA.png" group-title="Filmes | Brasil",Cinecanal
 https://0037-jbc-da-bpk.dtvott.com/dash_live_0027/manifest.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1daca448453d50b1b00df530643c3792:29bf2ffca33af447e9a491e4f2539e0d
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/Telecine_Premium_%282021%29.png/revision/latest?cb=20230209175748" group-title="Filmes | Brasil",Telecine Premium
+https://0002-jbc-da-mt.dtvott.com/dash_live_0086/manifest.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a6de453454c5d84931831ac2a711210:0d6eec46f9f27c13ebd0c7aa1ab2496c
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Telecine_Pipoca_%282021%29.png/revision/latest?cb=20230209175831" group-title="Filmes | Brasil",Telecine Pipoca
+https://0002-jbc-da-mt.dtvott.com/dash_live_0085/manifest.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3930d9804f7659279e02d3fa99d91821:e1ee63d8c366874142afce8017938be8
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Telecine_Action_%282021%29.png/revision/latest?cb=20230209175802" group-title="Filmes | Brasil",Telecine Action
+https://0002-jbc-da-mt.dtvott.com/dash_live_0084/manifest.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2316e0cdd826368c8106475cb8bf8763:01d9ea55d9e3f97e29e7ffe541a438fe
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Telecine_Touch_%282021%29.png/revision/latest?cb=20230209175817" group-title="Filmes | Brasil",Telecine Touch
+https://0118-vos.dtvott.com/DASH/manifest.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd8023c1b80231548a63209ab3159b11:1042162ed883156a37ecbca29c78eda2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Telecine_Fun_%282021%29.png/revision/latest?cb=20230209175844" group-title="Filmes | Brasil",Telecine Fun
+https://0117-vos.dtvott.com/DASH/manifest.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ebd165cac86f3085bf2d4b9034306290:1e96bbc7e71322e8081575da069aa880
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/Telecine_Cult_%282021%29.png/revision/latest?cb=20230209175857" group-title="Filmes | Brasil",Telecine Cult
+https://0116-vos.dtvott.com/DASH/manifest.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TastemadeLogo.svg/330px-TastemadeLogo.svg.png" group-title="Variedades | Brasil",Tastemade
+https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://thepetcollective.com/cdn/shop/files/tpc-logo.png?v=1680706116&width=375" group-title="Variedades | Brasil",The Pet Collective
+https://the-pet-collective-international-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.failarmy.com/cdn/shop/files/FA_RGB_STACKED-LOGO_HORIZONTAL_410x.png?v=1623863723" group-title="Variedades | Brasil",FailArmy
+https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://diaestudio.com/wp-content/webp-express/webp-images/uploads/2023/04/logo-diatv.png.webp" group-title="Variedades | Brasil",DiaTV
+https://ythls-v2.onrender.com/channel/UCKnMcgDLxDeq9HqUgLhtYbQ.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b8d6057ac5d59199e853d024eb4f176:fe621a6ad79fec7bfcb78bef78260f49
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/300px-Comedy_Central_2018.svg.png" group-title="Variedades | Brasil",Comedy Central
+https://0055-jbc.dtvott.com/dash_live_0020/manifest.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d00f407f39395bc1b3718683c31e5837:80188a26136ec57dd6732d380aeb14ce
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_of_Bis.svg/375px-Logo_of_Bis.svg.png" group-title="Variedades | Brasil",Bis
+https://0064-jbc.dtvott.com/dash_live_0055/manifest.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=76a51352f9295da0a0df4085c784b972:87ed956c0b04ceea6582d7f1c8138055
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/300px-Canal_Viva_2018_wordmark.svg.png" group-title="Variedades | Brasil",Viva
+https://0065-jbc.dtvott.com/dash_live_0073/manifest.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=67370630f3005b0ba816179920ecfd12:731242ad6bded77405fbe065ac6db40b
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Multishow.png/300px-Multishow.png" group-title="Variedades | Brasil",Multishow
+https://0065-jbc.dtvott.com/dash_live_0065/manifest.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=278cb23e34505011a7cbcb2cedad35ef:05e25c703b8cc9f6289bf439d2349011
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/300px-GNT_logo-roxo.svg.png" group-title="Variedades | Brasil",GNT
+https://0062-jbc.dtvott.com/dash_live_0062/manifest.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5bf883b838313824beae3a3e0402b28a:f568e5a00fe7f3f2089a017e214b03cc
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/75px-E%21_Logo_2012.svg.png" group-title="Variedades | Brasil",E!
+https://0033-vos.dtvott.com/DASH/manifest.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ddd856a2d08c5202afbc09c7c9c01db6:628385a202723f77dd157f96bd6a270f
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/375px-HGTV_US_Logo_2015.svg.png" group-title="Variedades | Brasil",HGTV
+https://1010-abc.dtvott.com/dash_live_0049/manifest.mpd
+
