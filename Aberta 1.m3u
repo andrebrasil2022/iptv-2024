@@ -205,4 +205,63 @@ https://0033-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/375px-HGTV_US_Logo_2015.svg.png" group-title="Variedades | Brasil",HGTV
 https://1010-abc.dtvott.com/dash_live_0049/manifest.mpd
-
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18b78953a4933986a6bec58e88ae618b:4dad4b04638e941ffaa7d28b2ccb380e
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/375px-Universal_TV_logo.svg.png" group-title="Séries | Brasil",Universal TV
+https://0125-vos.dtvott.com/DASH/manifest.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5fcfd3117f6c39cfb75f507ea45cf150:564ba92660a59472dbe353dec6e2df1f
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/375px-AXN_logo_%282015%29.svg.png" group-title="Séries | Brasil",AXN
+https://0003-vos.dtvott.com/DASH/manifest.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac6fab13d32c5c52bb7794f6bc686c14:bca0ed0c3b6d68aadc97bf328c766516
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/300px-Star_Channel_2020.svg.png" group-title="Séries | Brasil",Star Channel
+https://0029-jbc-da-mt.dtvott.com/dash_live_0014/manifest.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=64190f7a981d5a6c836c6461599cb6cc:377f0c547548272ae6fee5156cc76f35
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/300px-2018_Animal_Planet_logo.svg.png" group-title="Séries | Brasil",Animal Planet
+https://0037-jbc-da-bpk.dtvott.com/dash_live_0038/manifest.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=300bba76f7375d9bbd709f21117743d4:ae7a589a2b7a79280939c000f2a4bc2c
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Sony_Channel_LA_2023.png" group-title="Séries | Brasil",Sony Channel
+https://0055-jbc.dtvott.com/dash_live_0023/manifest.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d2cd7e6564e3f7a8813405e9a38035a:abb65804e658ab88b6e00df8ffa6392a
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/300px-Warner2018LA.png" group-title="Séries | Brasil",Warner TV
+https://0001-vos.dtvott.com/DASH/manifest.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf6855877dc33b608b59e62dd77ef5ba:920007aa5ce8ee880fb6e44237b8921b
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/300px-StudioUniversal2016.png" group-title="Séries | Brasil",Studio Universal
+https://0115-vos.dtvott.com/DASH/manifest.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9fc09333ecd6540483702523e2a8bd22:3f0607052bc2f932de40d6d2887d2025
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/375px-Paramount_Network.svg.png" group-title="Séries | Brasil",Paramount Network
+https://0060-jbc.dtvott.com/dash_live_0010/manifest.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09fab1062e9355a59fd449a4d76614e5:42c2ec0f3366d6e76f89fb730cf83b2c
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Séries | Brasil",TNT Series
+https://0058-jbc.dtvott.com/dash_live_0022/manifest.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb6caa15212159b985d450e2957d0234:de03bb522b09b0d7371e6d754f82306b
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/375px-2015_Discovery_theater_HD_logo.svg.png" group-title="Séries | Brasil",Discovery Theater
+https://0002-jbc-da-mt.dtvott.com/dash_live_0074/manifest.mpd
