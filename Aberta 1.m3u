@@ -207,6 +207,8 @@ https://0033-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/300px-Discovery_H%26H_Logo_2022.webp.png" group-title="Variedades | Brasil",Discovery Home & Health
 https://0058-jbc.dtvott.com/dash_live_0005/manifest.mpd
+#EXTINF:-1 tvg-logo="https://playtv.com.br/site/wp-content/uploads/2023/08/PlayTVHorizontal@500x-400x154.png" group-title="Variedades | Brasil",Play TV
+https://isaocorp.cloudecast.com/playtv/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://redemaisfamilia.com.br/wp-content/uploads/2022/08/Logo-rede-mais-familia.png" group-title="Variedades | Brasil",Rede Mais Família
 https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
@@ -359,3 +361,17 @@ https://d1wwtskvr1r98k.cloudfront.net/out/v1/d0982434e4c94f3a9bbbd0204d046b8c/in
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/270px-Cartoonito_-_Logo_2021.svg.png" group-title="Infantil | Brasil",Cartoonito
 https://1010-abc.dtvott.com/dash_live_0039/manifest.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NBC_News_%282023%29.svg/315px-NBC_News_%282023%29.svg.png" group-title="Notícias | EUA",NBC News
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/375px-ABC_News_Live_logo_2021.svg.png" group-title="Notícias | EUA",ABC News Live
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8?rays=hjigfedcba&ad.flex=15&ad.access_level=0&expand=drmOff&v=3&ad.adunit=/abc-news/abcnews.com/web/video&ad.vast3=1&ad.vid=$program_id&ad=abcnews_live&ad.pp=datg-live-vdms&ad.v=2&ad.
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/330px-New_Bloomberg_Logo.svg.png" group-title="Notícias | EUA",Bloomberg
+https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CBS_News_logo_%282020%29.svg/375px-CBS_News_logo_%282020%29.svg.png" group-title="Notícias | EUA",CBS News
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/USA_Today_%282020-01-29%29.svg/375px-USA_Today_%282020-01-29%29.svg.png" group-title="Notícias | EUA",USA Today
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-60df3e18541143002f3b8607.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=ErVdZfeTwwGFz_UeZTHE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Yahoo%21_Finance_logo_2021.png/375px-Yahoo%21_Finance_logo_2021.png" group-title="Notícias | EUA",Yahoo! Finance
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-5f170f01b898490041b49dd1.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=KgzeNTz8cjQuMhiJdhb_
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png" group-title="Notícias | EUA",NEWSnet
+https://univtec.g-mana.live/media/f7a2e644-2023-4241-85a4-9da6eb98fb56/mainManifest.m3u8?player.ssid=[ssid]&player.w=[w]&player.h=[h]&player.url=www.newsnetmedia.com
