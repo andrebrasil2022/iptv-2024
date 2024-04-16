@@ -15,6 +15,12 @@ https://poc-sky0051.glbcdn.net/dtv-tv/dash_live_0051/manifest.mpd
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0dbc422a1181541aaedcb15b97870ad9:92425dc7dc8a9f090d8fe9f33ed68d45
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rede_Bandeirantes_logo_2018.svg/300px-Rede_Bandeirantes_logo_2018.svg.png" group-title="Aberta | Brasil",Band
+https://0006-bbc.dtvott.com/dash_live_0006/manifest.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=99bffe94c79343208f617e8186946a1a:9d8ec765f77420330dcd0a9c6f4673fa
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/89/Logotipo_da_RedeTV%21.png/300px-Logotipo_da_RedeTV%21.png" group-title="Aberta | Brasil",Rede TV
@@ -55,6 +61,12 @@ https://0058-jbc.dtvott.com/dash_live_0127/manifest.mpd
 https://0059-vos.dtvott.com/DASH/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Record_News_logo_2023.svg/375px-Record_News_logo_2023.svg.png" group-title="Notícias | Brasil",Record News
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=728b67f9ea65585baf3ef8ad2fd2a667:94c19ebb0e0d6abbed6e62cee43b8ef8
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/300px-CNN_Brasil.svg.png" group-title="Notícias | Brasil",CNN Brasil
+https://0006-bbc.dtvott.com/dash_live_0024/manifest.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd1af42db82f5a17a0d75246f25f5201:a9edd4e2c410923e9cbcb261102e5008
@@ -111,6 +123,12 @@ https://0058-jbc.dtvott.com/dash_live_0042/manifest.mpd
 https://0002-jbc-da-mt.dtvott.com/dash_live_0078/manifest.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2d53d416f41c3fe0be013a6673011cd5:cd9e80c6a4ca125f876c60c84c82aff6
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/300px-AMC_logo_2019.svg.png" group-title="Filmes | Brasil",AMC
+https://0034-vos.dtvott.com/DASH/manifest.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c83585e34ba952de968732bb873bd6e8:ee105303a7d7d2baec82b3605a700b45
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/375px-Cinemax_LA.png" group-title="Filmes | Brasil",Cinemax
@@ -165,6 +183,18 @@ https://the-pet-collective-international-br.samsung.wurl.tv/playlist.m3u8
 https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://diaestudio.com/wp-content/webp-express/webp-images/uploads/2023/04/logo-diatv.png.webp" group-title="Variedades | Brasil",DiaTV
 https://ythls-v2.onrender.com/channel/UCKnMcgDLxDeq9HqUgLhtYbQ.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVlAiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTJOemd6TVh4cmRRTmhhV3ZVb0pVdGtuOS1HVjJhY29xbm9yeXNfb2hWcnR1OW1KMVdwZXNVeFBiTWhqLTlpOVZOaFJrcG54YXE2Q0JveUVYM0hnUW5FNFF1bWxtUXdnb2xrT1NKZVNZZ0ZhWTlxNGVlMlE9PSIsImFjY291bnRfaWQiOiIyMjY3ODMxIiwiY29udGVudF9pZCI6IjFfYjljZnFob3IiLCJmaWxlcyI6IiJ9&signature=HpgcW8dpIrC0Q8EVQlzAe3I6DnY%3D
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/300px-Logotipo_do_Modo_Viagem.svg.png" group-title="Variedades | Brasil",Modo Viagem
+https://cdnapisec.kaltura.com/p/2267831/sp/2267831/playManifest/entryId/1_b9cfqhor/deliveryProfileId/22993/protocol/https/format/mpegdash/manifest.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVlAiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTJOemd6TVh3X19reFg3TjU0U0N5U3hWMVZJWjk3cjB0V0Q4bWRYX1NrLTZBNWFHNzBEa05MQXhTRm0yejhiTVZmLXA4WWlwRk02c0w5TldYLVVGOWhvMGEwRERJTkZCRW5CWU4xelh4Y0NLZk1mbGhOU3c9PSIsImFjY291bnRfaWQiOiIyMjY3ODMxIiwiY29udGVudF9pZCI6IjFfemRoM3JkZW4iLCJmaWxlcyI6IiJ9&signature=HCLfeYkRBhgVpJj9A5%2FqhnFqkNs%3D
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/98/Saborearte.png/375px-Saborearte.png" group-title="Variedades | Brasil",Sabor & Arte
+https://cdnapisec.kaltura.com/p/2267831/sp/2267831/playManifest/entryId/1_zdh3rden/deliveryProfileId/23003/protocol/https/format/mpegdash/manifest.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b8d6057ac5d59199e853d024eb4f176:fe621a6ad79fec7bfcb78bef78260f49
@@ -331,6 +361,18 @@ https://0055-jbc.dtvott.com/dash_live_0002/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/375px-2019_Disney_Channel_logo.svg.png" group-title="Infantil | Brasil",Disney Channel
 https://0037-jbc-da-bpk.dtvott.com/dash_live_0018/manifest.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVlAiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTJOemd6TVh4aUY1VUFaRGZUZjFvRGZMaGtDUmJ3ZzQtY2VaYnZTbUVHYzFROWtscXZ6TTU2TVFVLWppcHJEdllIdS1KQTEtNFRBOFhjbjBiT01saFNWMUVkU05kbFRJNmdUbFVMb1pmUWktdkVVb3pBYmc9PSIsImFjY291bnRfaWQiOiIyMjY3ODMxIiwiY29udGVudF9pZCI6IjFfMHR5cm8zemwiLCJmaWxlcyI6IiJ9&signature=7I%2FYWbRndRMyJ5Hw%2BRFcushRFPw%3D
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TV_R%C3%A1-Tim-Bum.png/225px-TV_R%C3%A1-Tim-Bum.png" group-title="Infantil | Brasil",TV Rá-Tim-Bum
+https://cdnapisec.kaltura.com/p/2267831/sp/2267831/playManifest/entryId/1_0tyro3zl/deliveryProfileId/23003/protocol/https/format/mpegdash/manifest.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ed326c0eb67574eb47c6bbc819721ad:f35e7d0280b2541ef9c5f5c89c7b9680
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/375px-Adult_Swim_2003_logo.svg.png" group-title="Infantil | Brasil",Adult Swim
+https://0065-jbc.dtvott.com/dash_live_0072/manifest.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1e4d1348f35d5605bcd11cb9db919e9d:2ad9e062e4ec97dd996a32df285efe62
