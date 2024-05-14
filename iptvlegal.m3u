@@ -936,7 +936,7 @@ https://poa4.akamaized.net/hls/live/2037607/poa4/master.m3u8
 #EXTINF:-1 group-title="Brasil: variedades em português" tvg-id="RecordTVRio.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Record_2023_with_wordmark.png/revision/latest/scale-to-width-down/1000?cb=20231111231148" ,Record | Rio
 https://rjo4.akamaized.net/linear/hls/pa/event/Yn7TFrISTyG0150n2gyEWw/stream/8337b0c7-8fe8-4e26-9726-456e43c07f47:SCL/master.m3u8
 #EXTINF:-1 group-title="Brasil: variedades em português" tvg-id="RecordTVSaoPaulo.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Record_2023_with_wordmark.png/revision/latest/scale-to-width-down/1000?cb=20231111231148" ,Record | São Paulo
-https://spo4.akamaized.net/linear/hls/pa/event/8ssSlUQxSUimorxHsFz_SQ/stream/1ce07ea8-bac1-4700-accb-1826542d0054:SCL/master.m3u8
+https://spo4.akamaized.net/linear/hls/pa/event/8ssSlUQxSUimorxHsFz_SQ/stream/d9c92de3-846b-43d1-ac43-44ebf50c4be1:SCL/master.m3u8
 #EXTINF:-1 group-title="Brasil: variedades em português" tvg-id="TVConquista.br" tvg-logo="https://i.imgur.com/RDekR7e.png" ,Record | TV Conquista | MT Brasil
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 #EXTINF:-1 group-title="Brasil: variedades em português" tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/ZgnRZ47.png" ,Rede Brasil
