@@ -99,42 +99,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62c5d32e2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
 #EXTINF:-1 group-title="Brasil: cinema em português" tvg-logo="https://i.imgur.com/QapVmCb.png" ,Soul Cine Clube | Brasil
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVlAiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTJOemd6TVh3QzhWVU9iTy0zYm9JNjBoR1Jkck1qMVBTU2NMemQ4LVpVb3d2c3RGSUxCSTVLOGRGX0VRbTN2ZmgybDlTN0YwZ2JHOVFhYktIOUtmTkVWYllnWXBBdGtJRVZxUkdMcWZwd0xndmdCMWhzbGc9PSIsImFjY291bnRfaWQiOiIyMjY3ODMxIiwiY29udGVudF9pZCI6IjFfZ3FxaTVmbDIiLCJmaWxlcyI6IiJ9&signature=s1u9T6KMZr4Xc%2B5gyMEygk9m4mI%3D
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="TelecineAction.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/TelecineAction2021.png/375px-TelecineAction2021.png" group-title="Brasil: cinema em português",Telecine Action | Brasil
-https://cdnapisec.kaltura.com/p/1/sp/1/playManifest/entryId/1_gqqi5fl2/deliveryProfileId/22993/protocol/https/format/mpegdash/manifest.mpd
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ebd165cac86f3085bf2d4b9034306290:1e96bbc7e71322e8081575da069aa880
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="TelecineCult.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/Telecine_Cult_%282021%29.png/revision/latest?cb=20230209175857" group-title="Brasil: cinema em português",Telecine Cult | Brasil
-https://0116-vos.dtvott.com/DASH/manifest.mpd
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd8023c1b80231548a63209ab3159b11:1042162ed883156a37ecbca29c78eda2
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="TelecineFun.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Telecine_Fun_%282021%29.png/revision/latest?cb=20230209175844" group-title="Brasil: cinema em português",Telecine Fun | Brasil
-https://0117-vos.dtvott.com/DASH/manifest.mpd
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVlAiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTJOemd6TVh4Tm8wc1NCUDhwdnV2aFRJekxOZ1lBQXBqdmVaTnZDbHFuc3A4N3BkLW44aUpoNXg5cW04cy05VnplaEdSbUM1RGJodV80cVBKclYweVZ6MGpNWTB6Mk1ocEJFMGF5cFkxTXFURERkVEtMZXc9PSIsImFjY291bnRfaWQiOiIyMjY3ODMxIiwiY29udGVudF9pZCI6IjFfYjBjd2F3dmEiLCJmaWxlcyI6IiJ9&signature=EYeo55XewNn%2BCnlUEVxJuLmApMg%3D
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Telecine_Pipoca_%282021%29.png/revision/latest?cb=20230209175831" group-title="Brasil: cinema em português",Telecine Pipoca | Brasil
-https://cdnapisec.kaltura.com/p/1/sp/1/playManifest/entryId/1_b0cwawva/deliveryProfileId/22993/protocol/https/format/mpegdash/manifest.mpd
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVlAiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTJOemd6TVh4Tm8wc1NCUDhwdnV2aFRJekxOZ1lBQXBqdmVaTnZDbHFuc3A4N3BkLW44aUpoNXg5cW04cy05VnplaEdSbUM1RGJodV80cVBKclYweVZ6MGpNWTB6Mk1ocEJFMGF5cFkxTXFURERkVEtMZXc9PSIsImFjY291bnRfaWQiOiIyMjY3ODMxIiwiY29udGVudF9pZCI6IjFfeDViYndwemciLCJmaWxlcyI6IiJ9&signature=SmhPxidMNIyidy2xQbOtrlkl0Lg%3D
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/Telecine_Premium_%282021%29.png/revision/latest?cb=20230209175748" group-title="Brasil: cinema em português",Telecine Premium | Brasil
-https://cdnapisec.kaltura.com/p/1/sp/1/playManifest/entryId/1_x5bbwpzg/deliveryProfileId/23003/protocol/https/format/mpegdash/manifest.mpd
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2316e0cdd826368c8106475cb8bf8763:01d9ea55d9e3f97e29e7ffe541a438fe
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Telecine_Touch_%282021%29.png/revision/latest?cb=20230209175817" group-title="Brasil: cinema em português",Telecine Touch | Brasil
-https://0118-vos.dtvott.com/DASH/manifest.mpd
 #EXTINF:-1 group-title="Brasil: cristianismo em português" tvg-id="Canção Nova" tvg-logo="https://i.imgur.com/wacTreN.png" ,Canção Nova | Portugal
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/master.m3u8
 #EXTINF:-1 group-title="Brasil: cristianismo em português" tvg-id="TVEvangelizar.br" tvg-logo="https://i.imgur.com/wVPZqXa.png" ,Evangelizar TV
@@ -383,6 +347,12 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01391-addigital-jovempan-distrotv/p
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6317ba014d4d040007227f72/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="Brasil: humor; novelas e séries" tvg-id="6317ba014d4d040007227f72" tvg-logo="https://i.imgur.com/ZO2qtTH.png" ,Jovem Pan News | Pluto TV Brasil | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6317ba014d4d040007227f72/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=67370630f3005b0ba816179920ecfd12:731242ad6bded77405fbe065ac6db40b
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Multishow.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Multishow_logo_red_2012.svg/revision/latest/scale-to-width-down/1000?cb=20121216184410" group-title="Brasil: humor; novelas e séries",Multishow | Brasil
+https://0065-jbc.dtvott.com/dash_live_0065/manifest.mpd?da=1&country=BR&accountType=DTH&deviceType=web
 #EXTINF:-1 group-title="Brasil: humor; novelas e séries" tvg-id="5f512365abe1f50007d3ff56" tvg-logo="https://images.pluto.tv/channels/5f512365abe1f50007d3ff56/colorLogoPNG.png" ,Novelas | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f512365abe1f50007d3ff56/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 group-title="Brasil: humor; novelas e séries" tvg-id="5f512365abe1f50007d3ff56" tvg-logo="https://images.pluto.tv/channels/5f512365abe1f50007d3ff56/colorLogoPNG.png" ,Novelas | Pluto TV Brasil
@@ -413,6 +383,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121262a
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="SonyChannel.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Logosonychannellatam2023.png/revision/latest?cb=20230823021459" group-title="Brasil: humor; novelas e séries",Sony Channel
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/279/279.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf6855877dc33b608b59e62dd77ef5ba:920007aa5ce8ee880fb6e44237b8921b
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="StudioUniversal.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Studio_Universal_2016.svg/revision/latest?cb=20160424062945" group-title="Brasil: humor; novelas e séries",Studio Universal | Brasil
+https://0115-vos.dtvott.com/DASH/manifest.mpd?da=1&country=BR&accountType=DTH&deviceType=web
 #EXTINF:-1 group-title="Brasil: humor; novelas e séries" tvg-id="5f515ebac01c0f00080e8439" tvg-logo="https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/colorLogoPNG.png" ,The Pet Collective | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 group-title="Brasil: humor; novelas e séries" tvg-id="5f515ebac01c0f00080e8439" tvg-logo="https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/colorLogoPNG.png" ,The Pet Collective | Pluto TV Brasil
